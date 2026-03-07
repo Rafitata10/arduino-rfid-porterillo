@@ -3,7 +3,7 @@
 ```mermaid
 graph TD
 
-Arduino[Arduino Uno]
+Arduino[Arduino Nano]
 
 RC522[MFRC522 RFID Reader]
 SD[microSD Module]
