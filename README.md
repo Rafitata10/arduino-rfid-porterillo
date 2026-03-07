@@ -45,6 +45,14 @@ C1A0EB6F
 03E1ED6F
 BE9AED6F
 
+## Architecture
+
+See the architecture diagrams in `/docs`:
+
+- SPI architecture
+- Hardware wiring
+- Firmware flow
+
 ## Author
 
 Rafael Ramírez Salas
