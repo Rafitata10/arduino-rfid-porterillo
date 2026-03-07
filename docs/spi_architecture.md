@@ -1,7 +1,7 @@
 ```mermaid
 flowchart LR
 
-Arduino[Arduino Uno / Nano]
+Arduino[Arduino Nano]
 
 RC522[MFRC522 RFID Reader]
 SD[microSD Module]
